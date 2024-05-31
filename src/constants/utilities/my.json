@@ -1,0 +1,422 @@
+[
+  
+  {
+    "id": 2,
+    "name": "JAJA",
+    "lastname": "JAJ",
+    "job": "drunk",
+    "created_data": "2009-12-6",
+    "gender": "male",
+    "alive": false,
+    "age": 15,
+    "items": [
+      {
+        "id": 11,
+        "name": "duck"
+      },
+      {
+        "id": 12,
+        "name": "deck"
+      }
+    ],
+    "height": 180
+  },
+  {
+    "id": 3,
+    "name": "Tanar",
+    "lastname": "Anar",
+    "job": "dance",
+    "created_data": "2003-11-5",
+    "alive": false,
+    "gender": "male",
+    "age": 21,
+    "items": [
+      {
+        "id": 13,
+        "name": "trash"
+      },
+      {
+        "id": 14,
+        "name": "com"
+      }
+    ],
+    "height": 175
+  },
+  {
+    "id": 4,
+    "name": "Monh",
+    "lastname": "Bat",
+    "job": "student",
+    "created_data": "2018-09-12",
+    "alive": true,
+    "gender": "male",
+    "age": 6,
+    "items": [
+      {
+        "id": 15,
+        "name": "tag"
+      },
+      {
+        "id": 16,
+        "name": "talk"
+      }
+    ],
+    "height": 169
+  },
+  {
+    "id": 5,
+    "name": "Bat",
+    "lastname": "Monh",
+    "job": "docter",
+    "created_data": "1959-02-15",
+    "alive": true,
+    "gender": "male",
+    "age": 65,
+    "items": [
+      {
+        "id": 17,
+        "name": "all"
+      },
+      {
+        "id": 18,
+        "name": "Ed"
+      }
+    ],
+    "height": 151
+  },
+  {
+    "id": 6,
+    "name": "Zul",
+    "lastname": "Zulaa",
+    "job": "developer",
+    "created_data": "2007-10-10",
+    "alive": false,
+    "gender": "female",
+    "age": 17,
+    "items": [
+      {
+        "id": 19,
+        "name": "name"
+      },
+      {
+        "id": 20,
+        "name": "anime"
+      }
+    ],
+    "height": 150
+  },
+  {
+    "id": 7,
+    "name": "Alien",
+    "lastname": "Tseren",
+    "job": "joker",
+    "created_data": "2008-02-9",
+    "alive": false,
+    "gender": "???",
+    "age": 18,
+    "items": [
+      {
+        "id": 21,
+        "name": "toilet"
+      },
+      {
+        "id": 22,
+        "name": "MOOMOO"
+      }
+    ],
+    "height": 100
+  },
+  {
+    "id": 10,
+    "name": "Bagm",
+    "lastname": "Ijub",
+    "job": "student",
+    "created_data": "1969-07-27",
+    "alive": true,
+    "gender": "female",
+    "age": 55,
+    "items": [
+      {
+        "id": 27,
+        "name": "kid goat"
+      },
+      {
+        "id": 28,
+        "name": "kids"
+      }
+    ],
+    "height": 170
+  },
+  {
+    "id": 11,
+    "name": "Hurd",
+    "lastname": "Hond",
+    "job": "developer",
+    "created_data": "2019-02-9",
+    "alive": true,
+    "gender": "male",
+    "age": 15,
+    "items": [
+      {
+        "id": 10,
+        "name": "Keyboard"
+      },
+      {
+        "id": 11,
+        "name": "Mouse"
+      }
+    ],
+    "height": 185
+  },
+  {
+    "id": 12,
+    "name": "JAJA",
+    "lastname": "JAJ",
+    "job": "drunk",
+    "created_data": "2002-12-6",
+    "gender": "male",
+    "alive": false,
+    "age": 15,
+    "items": [
+      {
+        "id": 11,
+        "name": "duck"
+      },
+      {
+        "id": 12,
+        "name": "deck"
+      }
+    ],
+    "height": 180
+  },
+  {
+    "id": 13,
+    "name": "Tanar",
+    "lastname": "Anar",
+    "job": "dance",
+    "created_data": "2024-11-5",
+    "alive": false,
+    "gender": "male",
+    "age": 21,
+    "items": [
+      {
+        "id": 13,
+        "name": "trash"
+      },
+      {
+        "id": 14,
+        "name": "com"
+      }
+    ],
+    "height": 175
+  },
+  {
+    "id": 14,
+    "name": "Monh",
+    "lastname": "Bat",
+    "job": "student",
+    "created_data": "2012-09-12",
+    "alive": true,
+    "gender": "male",
+    "age": 6,
+    "items": [
+      {
+        "id": 15,
+        "name": "tag"
+      },
+      {
+        "id": 16,
+        "name": "talk"
+      }
+    ],
+    "height": 169
+  },
+  {
+    "id": 15,
+    "name": "Bat",
+    "lastname": "Monh",
+    "job": "docter",
+    "created_data": "2000-02-15",
+    "alive": true,
+    "gender": "male",
+    "age": 65,
+    "items": [
+      {
+        "id": 17,
+        "name": "all"
+      },
+      {
+        "id": 18,
+        "name": "Ed"
+      }
+    ],
+    "height": 151
+  },
+  {
+    "id": 16,
+    "name": "Zul",
+    "lastname": "Zulaa",
+    "job": "developer",
+    "created_data": "1000-10-10",
+    "alive": false,
+    "gender": "female",
+    "age": 17,
+    "items": [
+      {
+        "id": 19,
+        "name": "name"
+      },
+      {
+        "id": 20,
+        "name": "anime"
+      }
+    ],
+    "height": 150
+  },
+  {
+    "id": 17,
+    "name": "Tsovko",
+    "lastname": "Tseren",
+    "job": "joker",
+    "created_data": "2023-02-9",
+    "alive": false,
+    "gender": "female",
+    "age": 18,
+    "items": [
+      {
+        "id": 21,
+        "name": "drunk"
+      },
+      {
+        "id": 22,
+        "name": "MOO"
+      }
+    ],
+    "height": 100
+  },
+  {
+    "id": 18,
+    "name": "Duka",
+    "lastname": "Dulaa",
+    "job": "student",
+    "created_data": "2021-02-28",
+    "alive": true,
+    "gender": "female",
+    "age": 20,
+    "items": [
+      {
+        "id": 23,
+        "name": "bat"
+      },
+      {
+        "id": 24,
+        "name": "rat"
+      }
+    ],
+    "height": 90
+  },
+  {
+    "id": 19,
+    "name": "Bolor",
+    "lastname": "Bol",
+    "job": "Resding",
+    "created_data": "2005-09-11",
+    "alive": true,
+    "gender": "female",
+    "age": 33,
+    "items": [
+      {
+        "id": 25,
+        "name": "task"
+      },
+      {
+        "id": 26,
+        "name": "apple"
+      }
+    ],
+    "height": 165
+  },
+  {
+    "id": 20,
+    "name": "Baju",
+    "lastname": "Biju",
+    "job": "student",
+    "created_data": "2015-07-27",
+    "alive": true,
+    "gender": "female",
+    "age": 55,
+    "items": [
+      {
+        "id": 27,
+        "name": "kid"
+      },
+      {
+        "id": 28,
+        "name": "kids"
+      }
+    ],
+    "height": 170
+  },
+  {
+    "id": 1,
+    "name": "Даваабат",
+    "lastname": "Ганбаатар",
+    "job": "developer",
+    "created_data": "2007-05-21",
+    "alive": true,
+    "gender": "male",
+    "age": 17,
+    "items": [
+      {
+        "id": 10,
+        "name": "Keyboard"
+      },
+      {
+        "id": 11,
+        "name": "Mouse"
+      }
+    ],
+    "height": 185
+  },{
+    "id": 8,
+    "name": "Duka",
+    "lastname": "Dulaa",
+    "job": "student",
+    "created_data": "2004-02-28",
+    "alive": true,
+    "gender": "female",
+    "age": 20,
+    "items": [
+      {
+        "id": 23,
+        "name": "bat"
+      },
+      {
+        "id": 24,
+        "name": "rat"
+      }
+    ],
+    "height": 90
+  },
+  {
+    "id": 9,
+    "name": "Bolor",
+    "lastname": "Bol",
+    "job": "Resding",
+    "created_data": "1991-09-11",
+    "alive": true,
+    "gender": "female",
+    "age": 33,
+    "items": [
+      {
+        "id": 25,
+        "name": "task"
+      },
+      {
+        "id": 26,
+        "name": "apple"
+      }
+    ],
+    "height": 165
+  }
+]

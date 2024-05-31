@@ -1,0 +1,281 @@
+
+[
+    {
+      "id": 1,
+      "date": "Monday",
+      "temperatureHighest": 22,
+      "temperatureLowest": 19,
+      "temperatureAvarage": 20,
+      "weather": "Sunny",
+      "rain": 65,
+      "wind": 0.2,
+      "UV": 2,
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 20,
+          "weather": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png"
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 22,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/2c926953-f968-411a-af55-893c6c0d8901.png"
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 21,
+          "weather": "https://static.vecteezy.com/system/resources/thumbnails/022/287/830/small/3d-rendering-sun-ahead-of-the-clouds-icon-3d-render-weather-sun-cloud-icon-sun-ahead-of-the-clouds-png.png"
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 20,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/d12bc406-1c84-42b5-9f37-4d52460d0521.png"
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 19,
+          "weather": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png"
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 19,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/2c926953-f968-411a-af55-893c6c0d8901.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "Tuesday",
+      "temperatureHighest": 24,
+      "temperatureLowest": 20,
+      "temperatureAvarage": 22,
+      "weather": "Rainy",
+      "rain": 99,
+      "wind": 0.3,
+      "UV": 1,
+      "img": "https://assets.api.uizard.io/api/cdn/stream/d12bc406-1c84-42b5-9f37-4d52460d0521.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 21,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/634b1d13-e2b4-4766-9bb1-0397c173c222.png"
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 22,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/d12bc406-1c84-42b5-9f37-4d52460d0521.png"
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 23,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/e555eccb-fbe4-4a3c-8917-933a41798140.png"
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 24,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/2c926953-f968-411a-af55-893c6c0d8901.png"
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 22,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/634b1d13-e2b4-4766-9bb1-0397c173c222.png"
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 20,
+          "weather": "https://assets.api.uizard.io/api/cdn/stream/d12bc406-1c84-42b5-9f37-4d52460d0521.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Wednesday",
+      "temperatureHighest": 28,
+      "temperatureLowest": 22,
+      "temperatureAvarage": 25,
+      "weather": "Cloudy",
+      "rain": 20,
+      "wind": 0.15,
+      "UV": 2,
+      "img": "https://assets.api.uizard.io/api/cdn/stream/2c926953-f968-411a-af55-893c6c0d8901.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 23
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 24
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 27
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 28
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 23
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 22
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "Thursday",
+      "temperatureHighest": 25,
+      "temperatureLowest": 19,
+      "temperatureAvarage": 23,
+      "weather": "Cloudy",
+      "rain": 20,
+      "wind": 0.15,
+      "UV": 2,
+      "img": "https://assets.api.uizard.io/api/cdn/stream/2c926953-f968-411a-af55-893c6c0d8901.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 20
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 22
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 23
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 25
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 23
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 19
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "Friday",
+      "temperatureHighest": 21,
+      "temperatureLowest": 35,
+      "temperatureAvarage": 28,
+      "weather": "Sunny",
+      "rain": 55,
+      "wind": 0.2,
+      "UV": 2,
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 26
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 31
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 28
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 22
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 23
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 30
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "Saturday",
+      "temperatureHighest": 33,
+      "temperatureLowest": 26,
+      "temperatureAvarage": 28,
+      "weather": "Sunny",
+      "rain": 60,
+      "wind": 0.2,
+      "UV": 2,
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 27
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 31
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 28
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 26
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 26
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 30
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "Sunday",
+      "temperatureHighest": 24,
+      "temperatureLowest": 10,
+      "temperatureAvarage": 17,
+      "weather": "Storm",
+      "rain": 99,
+      "wind": 0.4,
+      "UV": 1,
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/013/743/930/small/sun-or-brightness-icon-png.png",
+      "today": [
+        {
+          "time": "6:00 AM",
+          "temperature": 14
+        },
+        {
+          "time": "9:00 AM",
+          "temperature": 16
+        },
+        {
+          "time": "12:00 PM",
+          "temperature": 20
+        },
+        {
+          "time": "3:00 PM",
+          "temperature": 24
+        },
+        {
+          "time": "6:00 PM",
+          "temperature": 15
+        },
+        {
+          "time": "9:00 PM",
+          "temperature": 11
+        }
+      ]
+    }
+  ]
